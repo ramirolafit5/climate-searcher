@@ -1,0 +1,20 @@
+.notFound {
+    background-color: #f8d7da; /* Un rojo suave para resaltar el error */
+    color: #721c24;           /* Texto rojo oscuro para contraste */
+    border: 1px solid #f5c6cb;
+    border-radius: 4px;
+    padding: 16px;
+    margin: 16px 0;
+    font-size: 1rem;
+    text-align: center;
+    max-width: 600px;         /* Ancho máximo para limitar el tamaño */
+    margin-left: auto;        /* Centramos horizontalmente */
+    margin-right: auto;
+    font-size: 1.5rem;
+  }
+  
+  .notFound p {
+    margin: 0;                /* Eliminamos el margen por defecto */
+    font-weight: 500;         /* Un poco de énfasis en el texto */
+  }
+  
